@@ -17,9 +17,10 @@ For Front End Web Development Mentorship, we will have five phases and a project
 - Perform CSS manipulations on HTML elements 
 
 # Phase 4 : Introduction to JavaScript 
-## [Getting Started with Django](https://docs.djangoproject.com/en/3.1/intro/)
-## [Installing Django](https://docs.djangoproject.com/en/3.1/intro/install/)
-## [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+- JavaScript variables and functions
+- Making use of the Console
+- How to add JS to our page
+- JS events onclick, scroll, event listeners...
 
 # Phase 5 : Project Build
 - Building the Front End of a Portfolio Website
