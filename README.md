@@ -20,3 +20,12 @@ In this phase we will be learning django using a project-based approach. We are 
 ## [Getting Started with Django](https://docs.djangoproject.com/en/3.1/intro/)
 ## [Installing Django](https://docs.djangoproject.com/en/3.1/intro/install/)
 ## [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+
+# Project Build
+- Building the Front End of a Portfolio Website
+This will Entail
+- Home Page
+- About Page
+- Service Page
+- Contact Page
+- Gallery Page
