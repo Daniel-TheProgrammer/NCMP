@@ -23,9 +23,10 @@ In this phase we will be learning django using a project-based approach. We are 
 
 # Project Build
 - Building the Front End of a Portfolio Website
+
 This will Entail
-- Home Page
-- About Page
-- Service Page
-- Contact Page
-- Gallery Page
+* Home Page
+* About Page
+* Service Page
+* Contact Page
+* Gallery Page
