@@ -21,6 +21,7 @@ For Front End Web Development Mentorship, we will have five phases and a project
 - Making use of the Console
 - How to add JS to our page
 - JS events onclick, scroll, event listeners...
+- Building of two Mini Projects using JS
 
 # Phase 5 : Project Build
 - Building the Front End of a Portfolio Website
