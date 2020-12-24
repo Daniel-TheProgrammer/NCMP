@@ -3,21 +3,18 @@
  
 For Front End Web Development Mentorship, we will have five phases and a project build. 
 # Phase 1 : Installation of CODE EDITOR
--Code Editor: Visual Studio Code
+- Code Editor: Visual Studio Code
 - Setting up of Code Editor
 
 # Phase 2 : Introduction to HTML
-- [Getting Started with HTML] 
-- [Writing an HTML document]
+- Getting Started with HTML
+- Writing an HTML document
+- HTML TAGS 
 
 # Phase 3 : Introduction to CSS
-In this phase we will be learning django using a project-based approach. We are going to build an Online shopping website with the following functionalities.
-- Content Management System for a shop
-- Users and Admins accounts
-- Shopping Cart
-- Payment Management app
-- Administrator mangement section etc.
-### [ Project Demo ](https://itzomen.pythonanywhere.com/)
+- Linking Our HTML file to a CSS file
+- Introducing Classes and IDs
+- Perform CSS manipulations on HTML elements 
 
 # Phase 4 : Introduction to JavaScript 
 ## [Getting Started with Django](https://docs.djangoproject.com/en/3.1/intro/)
