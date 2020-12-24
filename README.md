@@ -15,3 +15,8 @@ In this phase we will be learning django using a project-based approach. We are 
 - Payment Management app
 - Administrator mangement section etc.
 ### [ Project Demo ](https://itzomen.pythonanywhere.com/)
+
+# Phase 3 : Introduction to JavaScript 
+## [Getting Started with Django](https://docs.djangoproject.com/en/3.1/intro/)
+## [Installing Django](https://docs.djangoproject.com/en/3.1/intro/install/)
+## [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
