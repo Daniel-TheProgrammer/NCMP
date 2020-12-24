@@ -4,7 +4,7 @@
 For Front End Web Development Mentorship, we will have five phases and a project build. 
 # Phase 1 : Installation of CODE EDITOR
 - [Code Editor]: Visual Studio Code
-- [Install here](https:code.visualstudio.com)
+- [Install here](https://code.visualstudio.com)
 - Setting up of Code Editor
 
 # Phase 2 : Introduction to HTML
